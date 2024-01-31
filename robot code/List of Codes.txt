@@ -1,0 +1,17 @@
+Yay coding (Last updated: 1/31/24)
+
+Codes:
+1. drive train
+
+CAN ID's
+Power Hub - 1
+Rio - 0
+Pneumatics Hub - 2
+Front Right - 5
+Back Right - 6
+Front Left - 3
+Back Left - 4
+Top Shooter - 7
+Bottom Shooter - 8
+Intake - 9
+Amp - 10
