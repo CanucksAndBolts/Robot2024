@@ -1,1 +1,9 @@
 hello today i coded drivetrain - 1/31/24
+
+2/1/24 - 2/2/24
+Coded Shooter subsystem
+Coded shooter commands (ShootForward, ReverseShoot, StopShooting)
+Created new operator controller
+Added place holder port to Constants
+Connected button bindings
+Added port numbers for arcade drive
