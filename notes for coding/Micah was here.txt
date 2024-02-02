@@ -5,6 +5,6 @@ Coded Shooter subsystem
 Added blank Intake subsystem
 Coded shooter commands (ShootForward, ReverseShoot, StopShooting)
 Created new operator controller
-Added place holder port to Constants
+Added placeholder port to Constants
 Connected button bindings
 Added port numbers for arcade drive
