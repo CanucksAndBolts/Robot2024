@@ -1,1 +1,27 @@
+2/3/24
 
+Everything so far
+
+
+Subsystems:
+  Drivetrain.java
+  Intake.java
+  Shooter.java
+
+Commands:
+  DriveArcade.java
+  \intakeAndShooters
+      ReverseShoot.java
+      ShootForward.java
+  \intakeOnly 
+      ReverseIntake.java
+      RunIntake.java
+      StopIntaking.java
+  \shootersOnly
+      StopShooting.java
+
+Everything Else:
+  Constants.java
+  Main.java
+  Robot.java
+  RobotContainer.java
