@@ -1,0 +1,22 @@
+Driver - Arcade Drive
+    Left Stick
+    Right Stick
+
+Operator
+
+1) button push/hold intake in
+      limit switch disable
+2) button push/hold intake out
+3) toggle shooter on 100% out
+
+4) button shooter in low speed
+          +intake out
+          until limit switch x2
+
+5) toggle for climber
+6) toggle for source ramp
+7) toggle for amp claw
+8) joystick for amp arm
+        use encoders in neo for endpoints
+
+              
