@@ -1,0 +1,14 @@
+Make New Subsystems
+• Climber
+• Source Ramp
+• Amp Arm
+
+
+Make new controller 
+• Joystick for amp arm
+
+Code:
+• toggle for climber (go up and down with solenoids)
+• toggle for source ramp (ramp go up and down with solenoids)
+• toggle for amp claw (claw open and close with solenoids)
+• joystick moving (using solenoids and encoders)
