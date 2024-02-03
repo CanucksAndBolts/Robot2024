@@ -1,0 +1,5 @@
+Ah, there we go.
+
+There is no more example stuff. I think. (except Robot.java but we're not using it)
+
+I also got rid of Autos.java but it can be looked at in /unclean
