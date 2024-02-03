@@ -8,3 +8,10 @@ Created new operator controller
 Added placeholder port to Constants
 Connected button bindings
 Added port numbers for arcade drive
+
+2/3/24
+Created Intake Subsystem
+Created Intake Commands (ReverseIntake, RunIntake, StopIntaking)
+Binded Intake Buttons (RBButton, RTButton)
+Made command folders based on subsystems used (intakeAndShooters, intakeOnly, shootersOnly)
+Reworked Shooter commands to include Intake subsystem (ShootForward, ReverseShoot)
