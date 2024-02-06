@@ -1,1 +1,11 @@
+2/6/24
 
+I figured out solenoids! Yay!
+
+There are three new subsystems:
+
+Climber
+SourceRamp
+AmpArm
+
+They use solenoids. I also organized commands and subsystems into folder.
