@@ -2,3 +2,4 @@ Solenoid Channels (Last Updated: 2/6/24)
 
 Climber: forward is 0, reverse is 1
 Source Ramp: forward is 2, reverse is 3
+Amp Claw: forward is 4, reverse is 5
