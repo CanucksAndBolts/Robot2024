@@ -3,9 +3,45 @@
 I figured out solenoids! Yay!
 
 There are three new subsystems:
-
 Climber
 SourceRamp
 AmpArm
 
-They use solenoids. I also organized commands and subsystems into folder.
+They use solenoids. I also organized commands and subsystems into folders. Again.
+
+Here is everything so far: 
+
+Subsystems:
+  \motors
+    Drivetrain.java
+    Intake.java
+    Shooter.java
+  \motorsAndSolenoids
+    AmpArm.java
+  \solenoids
+    Climber.java
+    SourceRamp.java
+  
+Commands:
+  DriveArcade.java
+  \ampArmOnly
+    ToggleAmpClaw.java
+  \climberOnly
+    ToggleClimber.java
+  \intakeAndShooters
+      ReverseShoot.java
+      ShootForward.java
+  \intakeOnly 
+      ReverseIntake.java
+      RunIntake.java
+      StopIntaking.java
+  \shootersOnly
+      StopShooting.java
+  \sourceRampOnly
+    ToggleSourceRamp.java
+
+Everything Else:
+  Constants.java
+  Main.java
+  Robot.java
+  RobotContainer.java
