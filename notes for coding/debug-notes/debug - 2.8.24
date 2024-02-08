@@ -1,0 +1,19 @@
+Arcade Drive is working yay
+
+Bugs:
+Left Stick does turning motion instead of forward
+  Shooter front
+  Left Side moving backward
+  Right Side moving forward
+
+Right stick turns opposite direction to stick movement
+  Left turns right
+  Right turns left
+
+Shooter runs with motors (not supposed to happen)
+
+To Debug:
+
+Left stick: Make both sides move together
+
+Right stick: reverse motor turning movements
