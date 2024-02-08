@@ -1,0 +1,9 @@
+Arcade Drive Works! (2/8/24)
+
+We tested it first time today. After debugging, the arcade drive works correctly.
+
+Now I changed the shooter toggle code. I want it to work but it isn't.
+
+I also turned off the A button for testing purposes.
+
+Yay arcade drive.
