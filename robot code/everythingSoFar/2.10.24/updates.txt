@@ -1,0 +1,10 @@
+Arcade Drive and shooters work
+
+May need to add intake to functions later
+
+ShootForward.java is not in use at the momment. It was replaced by toggle function on RobotContainer.
+
+Working Robot Functions: 
+Arcade Drive
+Shooting on toggle
+Reverse shooters and press Limit switch twice
