@@ -1,0 +1,11 @@
+Now the shooter and intake work together 
+
+There's a new button (xButton) that only turns on the shooters (for shooting prep)
+
+Working Robot Functions:
+Arcade Drive
+Shooter only runs
+Shooting (with shooter and intake)
+Reverse shooters and intake and press Limit switch twice
+Note intake
+Note eject
