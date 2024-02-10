@@ -2,11 +2,15 @@ Buttons (Last Updated: 2/10/24)
 
 yButton (active)
 aButton (active)
-RBButton (disabled)
-RTButton (disabled)
+RBButton (testing)
+RTButton (testing)
 LTButton (disabled)
 LBButton (disabled)
 clawButton (disabled)
 
 Button Functions:
-TBW
+yButton - When pressed, toggles shooters forward
+aButton - When held, reverse shooters and intake out
+RBButton - When held, does intake (intake disables when limit switch pressed)
+RTButton - When held, reverses intake
+
