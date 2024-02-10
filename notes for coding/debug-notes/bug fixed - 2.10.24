@@ -1,0 +1,3 @@
+Fixed reverse toggle (2/10/24)
+
+The robot is now coded to turn off the reverse shooters after limit switch is pressed twice.
