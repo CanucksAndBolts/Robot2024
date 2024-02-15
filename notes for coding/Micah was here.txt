@@ -15,3 +15,6 @@ Created Intake Commands (ReverseIntake, RunIntake, StopIntaking)
 Binded Intake Buttons (RBButton, RTButton)
 Made command folders based on subsystems used (intakeAndShooters, intakeOnly, shootersOnly)
 Reworked Shooter commands to include Intake subsystem (ShootForward, ReverseShoot)
+
+2/15/24
+Modified intake velocity (60% -> 100%)
