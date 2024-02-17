@@ -11,7 +11,7 @@ clawButton (disabled)
 
 Button Functions:
 xButton - When pressed, toggles shooters (only) on
-yButton - When pressed, toggles shooters and intake on (for shooting)
+yButton - When pressed, turns on shooters and intake on, then off (for shooting)
 aButton - When held, reverse shooters and intake out
 RBButton - When held, does intake (intake disables when limit switch pressed)
 RTButton - When held, reverses intake
