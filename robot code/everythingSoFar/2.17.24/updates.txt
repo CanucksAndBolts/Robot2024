@@ -1,0 +1,3 @@
+Intake velocity increased (60% -> 100%)
+Ybutton configuration changed (Toggle -> Press)
+Autos still not tested
