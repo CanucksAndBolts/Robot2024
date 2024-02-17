@@ -1,3 +1,9 @@
+Intake code was made like a week ago
+
+
+
+Switching front code added
 Intake velocity increased (60% -> 100%)
 Ybutton configuration changed (Toggle -> Press)
+
 Autos still not tested
