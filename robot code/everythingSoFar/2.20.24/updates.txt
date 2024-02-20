@@ -1,0 +1,7 @@
+Two new updates:
+
+Shooting is now automated:
+• Ayden write down how it works. Each step is a new bullet •
+
+Test auto worked:
+Robot drives for three seconds then stops.
