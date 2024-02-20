@@ -1,7 +1,9 @@
 Two new updates:
 
 Shooting is now automated:
-• Ayden write down how it works. Each step is a new bullet •
+• Shooter begins running on its own for 0.25 seconds
+• Intake then turns on for 1 second
+• Intake and shooter shut off
 
 Test auto worked:
 Robot drives for three seconds then stops.
