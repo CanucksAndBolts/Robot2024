@@ -1,1 +1,5 @@
+Changed solenoid channels
 
+Auto commands work (they used to not finish) but they are timed.
+
+Need to test encoders for accurate movement measurements
