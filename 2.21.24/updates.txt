@@ -1,0 +1,3 @@
+Changed solenoid channels and updated on note
+
+Auto works but the commands are timed. Need to test encoders for precise movement measurements.
