@@ -5,9 +5,9 @@ yButton (active)
 aButton (active)
 RBButton (active)
 RTButton (active)
-LTButton (disabled)
-LBButton (disabled)
-clawButton (disabled)
+LTButton (testing)
+LBButton (testing)
+clawButton (testing)
 
 Button Functions:
 xButton - When pressed, toggles shooters (only) on
