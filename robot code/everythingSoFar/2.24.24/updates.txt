@@ -1,0 +1,6 @@
+- Added delay timer input for auto to drivetrain 
+- Started adding input to change auto
+
+WARNING: IT IS NOT DONE UNTIL THE ELSE STATEMENT SAYS AUTOMIN. NOT TESTING AUTO.
+
+No runaway robots please
