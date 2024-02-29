@@ -1,0 +1,4 @@
+- Autonomous Mode Selector Works !!! (YAY)
+    Also a chooser instead of textbox now
+
+- Tested AMP arm, hardware insufficient, will not be using
