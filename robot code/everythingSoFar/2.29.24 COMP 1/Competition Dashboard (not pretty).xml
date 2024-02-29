@@ -1,0 +1,25 @@
+<xml version="1.0">
+<dashboard>
+	<widget field="Auto Chooser" type="String Chooser" class="edu.wpi.first.smartdashboard.gui.elements.Chooser">
+		<location x="290" y="24"/>
+	</widget>
+	<static-widget class="edu.wpi.first.smartdashboard.gui.elements.Label">
+		<location x="298" y="10"/>
+		<property name="Text" value="List of Auto Commands"/>
+	</static-widget>
+	<widget field="doNothingFor" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="47" y="11"/>
+	</widget>
+	<static-widget class="edu.wpi.first.smartdashboard.gui.elements.CameraServerViewer">
+		<location x="773" y="4"/>
+		<width>761</width>
+		<height>557</height>
+		<property name="Camera Choice" value=""/>
+	</static-widget>
+	<static-widget class="edu.wpi.first.smartdashboard.gui.elements.ConnectionIndicator">
+		<location x="7" y="1"/>
+	</static-widget>
+</dashboard>
+<live-window>
+</live-window>
+</xml>
