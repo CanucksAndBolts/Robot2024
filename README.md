@@ -12,3 +12,6 @@ original - y-button is held down to ShootForward (no toggle)
 toggle-Y is now the main branch
 
 It has an everythingSoFar folder with everything so far.
+
+
+COMPETITION 1 CODE UPLOADED LESGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
