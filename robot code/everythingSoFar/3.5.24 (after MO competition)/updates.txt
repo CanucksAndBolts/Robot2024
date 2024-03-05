@@ -1,0 +1,13 @@
+During the competition, we:
+
+- added DPad movement (only fully works on intake side)
+- added amp function (spits note out, won't go in amp)
+- commented amp arm code (no smoking)
+- added new drive back auto code
+- edited auto min to scoot back
+
+
+Now we should:
+- make autoMin for right side turn
+- make two note auto
+- test limit switch once added
